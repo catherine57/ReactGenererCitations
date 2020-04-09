@@ -1,0 +1,7 @@
+# ignorer le dossier node
+
+node_modules
+
+# ignorer fichier mes infos
+
+lisez_moi_citation.txt
